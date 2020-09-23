@@ -1,0 +1,4 @@
+com\example\aws\lambda\bean\Request.class
+com\example\aws\lambda\Application.class
+com\example\aws\lambda\exception\ResourceNotFoundException.class
+com\example\aws\lambda\bean\Student.class
